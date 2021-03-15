@@ -21,7 +21,7 @@ SAS, Gretl, Excel
 
 ---
 
-### 📕 My Linkedin Articles about Data Sience in Chemistry 
+### 📕 My Linkedin Articles about Data Science in Chemistry 
 
 <!-- Linkedin-Articles-LIST:START -->
 * [DATA SCIENCE & CHEMICAL SCIENCE. Part 1. IMPURITY IN POLYMER PRODUCTION](https://www.linkedin.com/pulse/data-science-chemical-part-i-michael-nazarkovsky/) 
@@ -36,7 +36,7 @@ SAS, Gretl, Excel
 
 ---
 
-### 📕 Scientific Articles of my Co-Authorship with Data Sience Approaches in Chemistry 
+### 📕 Scientific Articles of my Co-Authorship with Data Science Approaches in Chemistry 
 
 <!-- Scientific-Articles-LIST:START -->
 * [Rhodium nanoparticles impregnated on TiO2: Strong morphological effects on hydrogen production](https://pubs.rsc.org/en/content/articlelanding/2020/NJ/D0NJ02419H#!divAbstract) 
