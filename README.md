@@ -47,16 +47,16 @@ SAS, Gretl, Excel
 ### 📕 Languages I speak
 
 <!-- LANGUAGES-LIST:START -->
-* [German]![1f1e9-1f1ea](https://user-images.githubusercontent.com/63872579/111186748-1640d880-8592-11eb-9a9e-48aede72bf21.png)
+* German![1f1e9-1f1ea](https://user-images.githubusercontent.com/63872579/111186748-1640d880-8592-11eb-9a9e-48aede72bf21.png)
 
 * [Brazilian Portuguese](https://user-images.githubusercontent.com/63872579/111186392-bcd8a980-8591-11eb-834f-e0004c6a0a55.png)
 
-* [English]![1f1fa-1f1f8](https://user-images.githubusercontent.com/63872579/111186790-1f31aa00-8592-11eb-8bf1-fb12d227df94.png)
+* English![1f1fa-1f1f8](https://user-images.githubusercontent.com/63872579/111186790-1f31aa00-8592-11eb-8bf1-fb12d227df94.png)
 
-* [Russian]![1f1f7-1f1fa](https://user-images.githubusercontent.com/63872579/111186844-2e185c80-8592-11eb-9235-50e9fb1b3885.png)
-[Resume202101050354.pdf](https://github.com/Nazarkovsky/Nazarkovsky/files/6142946/Resume202101050354.pdf)
+* Russian![1f1f7-1f1fa](https://user-images.githubusercontent.com/63872579/111186844-2e185c80-8592-11eb-9235-50e9fb1b3885.png)
 
-* [Ukrainian]![1f1fa-1f1e6](https://user-images.githubusercontent.com/63872579/111186870-34a6d400-8592-11eb-8faa-ce79b7a4eb47.png)
+
+* Ukrainian![1f1fa-1f1e6](https://user-images.githubusercontent.com/63872579/111186870-34a6d400-8592-11eb-8faa-ce79b7a4eb47.png)
 
 
 
