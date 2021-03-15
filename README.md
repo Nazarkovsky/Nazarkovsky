@@ -47,7 +47,7 @@ SAS, Gretl, Excel
 ### 📕 Languages I speak
 
 <!-- LANGUAGES-LIST:START -->
-* [German](https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_Germany_(3-2_aspect_ratio).svg) 
+* (🇩🇪) German
 * [Brazilian Portuguese](https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_Brazil.svg)
 * [English](https://www.graciepac.com/5-presidents-who-studied-martial-arts/us-flag-banner-clipart-clipartfest-in-american-flag-banners/) 
 * [Russian](https://www.colonialflag.com/russia/) 
