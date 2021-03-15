@@ -14,13 +14,7 @@
 
 ### Tools:
 
-<img align="left" alt="SAS" width="26px" src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:SAS_logo_horiz.svg" />
-
-<img align="left" alt="Gretl" width="26px" src="https://twitter.com/gretl_stats/photo" />
-
-[<img align="left" alt="Excel" width="40px" src="https://img.ibxk.com.br/2015/10/08/08173114333801.jpg?w=1120&h=420&mode=crop&scale=both" />]
-
-
+SAS, Gretl, Excel
 
 
 ---
