@@ -12,6 +12,8 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-nazarkovsky/)
 
 
+
+
 ### Tools:
 
 SAS, Gretl, Excel
@@ -34,7 +36,7 @@ SAS, Gretl, Excel
 
 ---
 
-### 📕 Scientific Articles with my Co-authorship with Data Sience Approaches in Chemistry 
+### 📕 Scientific Articles of my Co-Authorship with Data Sience Approaches in Chemistry 
 
 <!-- Scientific-Articles-LIST:START -->
 * [Rhodium nanoparticles impregnated on TiO2: Strong morphological effects on hydrogen production](https://pubs.rsc.org/en/content/articlelanding/2020/NJ/D0NJ02419H#!divAbstract) 
