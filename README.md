@@ -48,7 +48,8 @@ SAS, Gretl, Excel
 
 <!-- LANGUAGES-LIST:START -->
 * (🇩🇪) German
-* [Brazilian Portuguese](🇧🇷)
+* [Brazilian Portuguese](https://user-images.githubusercontent.com/63872579/111186392-bcd8a980-8591-11eb-834f-e0004c6a0a55.png)
+
 * [English](https://www.graciepac.com/5-presidents-who-studied-martial-arts/us-flag-banner-clipart-clipartfest-in-american-flag-banners/) 
 * [Russian](https://www.colonialflag.com/russia/) 
 * [Ukrainian](http://www.all-flags-world.com/country-flag/Ukraine/flag-ukraine-XL.jpg)
