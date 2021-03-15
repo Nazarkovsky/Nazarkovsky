@@ -1,6 +1,6 @@
 ### Michael Nazarkovsky - Data Scientist & Chemist 👋
 
-## I am a data scientist and have PhD in chemistry. I like to implement data-driven solutions in material science and physical chemistry to enhance the scientific and industrial development!
+## I am a data scientist with PhD in chemistry. I like to implement data-driven solutions in material science and physical chemistry to enhance the scientific and industrial development!
 
 - 💻 I’m currently working as a postdoctoral researcher at PUC Rio
 - 💻 I'm also collaborating with scientists in projects where the data science, machine learning and statistics are helpful.  
