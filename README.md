@@ -57,8 +57,7 @@ SAS, Gretl, Excel
 [Resume202101050354.pdf](https://github.com/Nazarkovsky/Nazarkovsky/files/6142946/Resume202101050354.pdf)
 
 * [Ukrainian]![1f1fa-1f1e6](https://user-images.githubusercontent.com/63872579/111186870-34a6d400-8592-11eb-8faa-ce79b7a4eb47.png)
-![Violin Plot-Python](https://user-images.githubusercontent.com/63872579/111186876-36709780-8592-11eb-868d-66971d8b7676.jpg)
-[Ligning and holo-cellulose quantification_ v2.docx](https://github.com/Nazarkovsky/Nazarkovsky/files/6142949/Ligning.and.holo-cellulose.quantification_.v2.docx)
+
 
 
 
